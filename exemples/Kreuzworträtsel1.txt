@@ -1,0 +1,18 @@
+1. Hardware und Software als Einheit(14)
+    COMPUTERSYSTEM
+2. Compiler
+3. Prozessor
+4. HTML
+5. PROGRAMM
+6. UNICODE 
+7. Variable
+8. JVM
+9. PLATTFORM
+10. PAKET
+11.JAVA
+12.WERT
+13. KONSTANTE
+14. TYP 
+15. AUSDRUCK
+16. LITERAL
+17. BEZEICHNER
